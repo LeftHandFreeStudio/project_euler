@@ -24,22 +24,6 @@ def checkHighestPrimeFactor(n):
 		print(number)
 	
 
-def checkPrime(n):
-	half = 0
-	prime = true
-	if n%2 == 0:
-		half = n/2
-		return false
-	else:
-		half = (n-1)/2
-	index = half
-	while(index > 0):
-		if n%index != 0:
-			return false
-		index -= 1
-	return prime	
-	
-
 
 if __name__ == "__main__":
 	number = 600851475143
