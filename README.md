@@ -1,1 +1,2 @@
-# project_euler
+# CONTAINS SPOILERS!!! SPEND SOME TIME FIRST BEFORE CHECKING UP A SOLUTION! 
+# project_euler 
